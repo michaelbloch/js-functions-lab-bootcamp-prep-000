@@ -6,7 +6,7 @@ function happyHolidays(string) {
 
 /*
 function happyHolidaysTo {
-  
+  return ("Happy holidays, ${name}!")
 }
 
 function HappyHolidayTo {
