@@ -4,13 +4,13 @@ function happyHolidays(string) {
   return ("Happy holidays!")
 }
 
-var name1 = "Michael"
+var name = "Michael"
 
-/*
 function happyHolidaysTo {
   return ("Happy holidays, ${name}!")
 }
 
+/*
 function HappyHolidayTo {
   
 }
